@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Computer Sicence Ph.D. student @ Northwestern University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href='https://github.com/ruixiangchai'>Github</a></p>
+    <p><a href='https://https://www.linkedin.com/in/rui-xiang-chai-b69521187/'>Linkedin</a></p>
+    <p>Email: <a href='mailto:ruichai2027@u.northwestern.edu'>ruichai2027@u.northwestern.edu</p>
+    <p>3406 Seeley G. Mudd Library, 2233 Tech Dr, Evanston, IL</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a Computer Science major Ph.D. student at Northwestern University, McCormick School of Engineering. I am advised by <a href='https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html'>Prof. Han Liu</a> and I conduct research at Modern Artificial General Intelligence and Computer Systems Lab (MAGICS Lab). My focus of research is **Multivariate Time Series Prediction and Analysis** through a variety of machine learning methods. I am currently working on financial time series prediciton through **Cross-Sectional Regression**. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have finished my Bachelor's degree in Computer Science with a minor in Statistics at the University of Waterloo in Canada in 2022. I have finished multiple internships in areas ranging from system development, autonomous vehicle, and machine learning research.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Besides research, I find my interests in sports, travelling, and photography. I played badminton competitively in high school. In addition, I like watching variety of sports ranging from soccer, basketbal to Formula one, to mixed martial arts. I love travling around the world during holidays and taking both landscape and street photography. 
+
